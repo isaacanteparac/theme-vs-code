@@ -17,5 +17,13 @@
                 "path": "./themes/Theme Dark Bat-color-theme.json"
             }
         ]
-    }
+    },
+    "author": {
+        "name": "Isaac Antepara"
+    },
+    "repository": {
+        "url": "https://github.com/thisisisaacantepara/The-boring",
+        "type": "git"
+    },
+    "publisher": "thisisisaacac"
 }
