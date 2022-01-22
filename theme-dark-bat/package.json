@@ -1,7 +1,7 @@
 {
     "name": "theme-dark-bat",
-    "displayName": "theme dark bat",
-    "description": "theme dark",
+    "displayName": "Theme Dark Bat",
+    "description": "Theme Dark",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
