@@ -1,4 +1,6 @@
 # Theme Dark Bat
+# FONT
+  https://github.com/thisisisaacantepara/bat-computer/blob/master/Hurmit%20Medium%20Nerd%20Font%20Complete.otf
 
 # JS/TS
   ![image](https://user-images.githubusercontent.com/69361351/150627037-c510206a-8523-49f8-942f-849491980635.png)
