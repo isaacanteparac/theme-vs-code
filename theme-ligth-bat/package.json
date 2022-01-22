@@ -1,0 +1,21 @@
+{
+    "name": "theme-ligth-bat",
+    "displayName": "theme-ligth-bat",
+    "description": "Theme Ligth",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Theme Ligth Bat",
+                "uiTheme": "vs",
+                "path": "./themes/Theme Ligth Bat-color-theme.json"
+            }
+        ]
+    }
+}
