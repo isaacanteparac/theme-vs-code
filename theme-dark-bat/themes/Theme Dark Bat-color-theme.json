@@ -25,10 +25,10 @@
 
 		
 		/*vista peek alt+f12*/
-		"peekViewEditor.background":"#f6bfbf",
-		"peekViewEditorGutter.background":"#f6bfbf",
+		"peekViewEditor.background":"#000000",
+		"peekViewEditorGutter.background":"#000000",
 		"peekViewEditor.matchHighlightBackground":"#000000",
-		"peekViewEditor.matchHighlightBorder":"#ff00cc",
+		"peekViewEditor.matchHighlightBorder":"#ffffff",
 		"peekViewResult.background":"#1f1b1b",
 		"peekViewResult.fileForeground":"#ff0000",
 
