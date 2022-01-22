@@ -19,10 +19,12 @@
         ]
     },
     "author": {
-        "name": "Isaac Antepara"
+        "name": "Isaac Antepara",
+        "url": "https://www.linkedin.com/in/isaac-antepara-13448322a/"
+        
     },
     "repository": {
-        "url": "https://github.com/thisisisaacantepara/The-boring",
+        "url": "https://github.com/thisisisaacantepara/bat-computer",
         "type": "git"
     },
     "publisher": "thisisisaacac"
