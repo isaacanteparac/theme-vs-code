@@ -1,6 +1,6 @@
 {
     "name": "theme-ligth-bat",
-    "displayName": "theme-ligth-bat",
+    "displayName": "Theme Ligth Bat",
     "description": "Theme Ligth",
     "version": "0.0.1",
     "engines": {
@@ -12,10 +12,20 @@
     "contributes": {
         "themes": [
             {
-                "label": "Theme Ligth Bat",
-                "uiTheme": "vs",
-                "path": "./themes/Theme Ligth Bat-color-theme.json"
+                "label": "Theme Dark Bat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Theme Dark Bat-color-theme.json"
             }
         ]
-    }
+    },
+    "author": {
+        "name": "Isaac Antepara",
+        "url": "https://www.linkedin.com/in/isaac-antepara-13448322a/"
+
+    },
+    "repository": {
+        "url": "https://github.com/thisisisaacantepara/bat-computer",
+        "type": "git"
+    },
+    "publisher": "thisisisaacac"
 }
