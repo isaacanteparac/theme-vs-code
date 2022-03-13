@@ -1,10 +1,10 @@
 {
-    "name": "theme-ligth-bat",
-    "displayName": "Theme Ligth Bat",
-    "description": "Theme Ligth",
+    "name": "theme-light-idac",
+    "displayName": "theme_light_idac",
+    "description": "theme light",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.65.0"
     },
     "categories": [
         "Themes"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Theme Ligth Bat",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Theme Ligth Bat-color-theme.json"
+                "label": "theme light idac",
+                "uiTheme": "vs",
+                "path": "./themes/theme light idac-color-theme.json"
             }
         ]
     },
@@ -24,7 +24,7 @@
 
     },
     "repository": {
-        "url": "https://github.com/thisisisaacantepara/bat-computer",
+        "url": "https://github.com/thisisisaacantepara/theme-vs-code",
         "type": "git"
     },
     "publisher": "thisisisaacac"
